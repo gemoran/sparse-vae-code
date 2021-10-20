@@ -1,6 +1,6 @@
 # Sparse VAE
 
-This repository contains the code for ``Identifiable VAEs via Sparse Decoding''.
+This repository contains the code for the paper ``Identifiable VAEs via Sparse Decoding''.
 
 ## Data Sources
 
