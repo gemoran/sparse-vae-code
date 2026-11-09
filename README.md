@@ -2,6 +2,8 @@
 
 This repository contains the code for the paper "Identifiable Deep Generative Models via Sparse Decoding" [(arXiv)](https://arxiv.org/abs/2110.10804).
 
+A newer package is available [here](https://github.com/gemoran/sparse-vae)
+
 ## Data Sources
 
 The datasets used in this paper were downloaded from the following sites.
